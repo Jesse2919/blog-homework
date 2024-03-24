@@ -1,0 +1,24 @@
+nav {
+    flex-direction: row;
+    float: right;
+   justify-content: space-between;
+   
+   }
+   .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  .header{
+    background-color: aqua;
+   }
+   body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+   }
+   label{
+    font-weight: bold;
+ }
